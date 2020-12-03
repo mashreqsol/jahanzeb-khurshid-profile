@@ -6,5 +6,48 @@
 
 module.exports = {
   /* Your site config here */
-  plugins: [],
+//plugins: ["gatsby-plugin-sass"],
+siteMetadata: {
+  title: "Jahanzeb Khurshid Kalyani",
+  description: "I learn JavaScript, React, GraphQL and Gatsby",
+  author: "Jahanzeb Khurshid",
+},
+
+
+
+  plugins: [
+
+    {
+      resolve: `gatsby-plugin-sass`,
+      options: {
+          implementation: require('sass')
+      },
+    },
+    "gatsby-plugin-react-helmet",
+    "gatsby-transformer-sharp",
+    //"gatsby-transformer-remark",
+    {
+      resolve: "gatsby-source-filesystem",
+      options: {
+        name: "src",
+        path: `${__dirname}/src/`,
+      },
+    },
+    "gatsby-plugin-sharp",
+    {
+      resolve: "gatsby-transformer-remark",
+      options: {
+        plugins: [
+          {
+            resolve: "gatsby-remark-images",
+            options: {
+              maxWidth: 450,
+              linkImagesToOriginal: false,
+            },
+          },
+        ],
+      },
+    },
+  ],
+
 }

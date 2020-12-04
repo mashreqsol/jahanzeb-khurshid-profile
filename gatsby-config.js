@@ -8,9 +8,9 @@ module.exports = {
   /* Your site config here */
 //plugins: ["gatsby-plugin-sass"],
 siteMetadata: {
-  title: "Jahanzeb Khurshid Kalyani",
+  title: "Jahanzeb Khurshid",
   description: "I learn JavaScript, React, GraphQL and Gatsby",
-  author: "Jahanzeb Khurshid",
+  author: "Jahanzeb Khurshid Kalyani",
 },
 
 

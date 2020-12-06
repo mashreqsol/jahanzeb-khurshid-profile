@@ -8,8 +8,8 @@ module.exports = {
   /* Your site config here */
 //plugins: ["gatsby-plugin-sass"],
 siteMetadata: {
-  title: "Jahanzeb Khurshid",
-  description: "I learn JavaScript, React, GraphQL and Gatsby",
+  title: "Mashreq Solutions",
+  description: "Software Development, Web Development, IT Trainings and Coding Academy For Kids",
   author: "Jahanzeb Khurshid Kalyani",
 },
 

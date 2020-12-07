@@ -9,7 +9,7 @@ module.exports = {
 //plugins: ["gatsby-plugin-sass"],
 siteMetadata: {
   title: "Mashreq Solutions",
-  description: "Software Development, Web Development, IT Trainings and Coding Academy For Kids",
+  description: "Software & Web Development, IT Trainings and Coding Academy For Kids",
   author: "Jahanzeb Khurshid Kalyani",
 },
 

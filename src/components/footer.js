@@ -21,8 +21,7 @@ const Footer = () => {
     <footer className={footerStyles.siteFooter}>
       <div className={footerStyles.container}>
         <p>
-          Site developed by {data.site.siteMetadata.author} &copy;{" "}
-          {new Date().getFullYear().toString()}{" "}
+          &copy;{" "} {new Date().getFullYear().toString()}{" "} Mashreqsol. All rights reserved.
         </p>
       </div>
     </footer>

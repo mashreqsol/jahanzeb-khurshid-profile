@@ -5,7 +5,7 @@
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
-    background-image: url("../images/header-image.jpg.jpg");
+    background-image: url("../images/header-image.jpg");
   }
 
   .overlay {
@@ -48,7 +48,8 @@
   .description {
     margin: 0;
     padding: 0 0 10px;
-    font-size: 12px;
+    font-style: italic;
+    font-size: 14px;
     font-weight: 500;
     line-height: 1.5;
     letter-spacing: 3.5px;

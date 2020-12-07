@@ -18,6 +18,7 @@ const Header = () => {
   )
     return (
         <header className={headerStyles.header}>
+
          <div className={headerStyles.overlay}></div>
           <div className={headerStyles.heroContent}>
             <p className={headerStyles.brand}>
@@ -36,6 +37,16 @@ const Header = () => {
                 </li>
                 <li>
                   <Link to="/blog/" activeClassName={headerStyles.activeMenuItem}>
+                    Products
+                  </Link>
+                </li>
+                <li>
+                  <Link to="/blog/" activeClassName={headerStyles.activeMenuItem}>
+                    Services
+                  </Link>
+                </li>
+                <li>
+                  <Link to="/blog/" activeClassName={headerStyles.activeMenuItem}>
                     Blog
                   </Link>
                 </li>
@@ -50,7 +61,7 @@ const Header = () => {
                   </Link>
                 </li>
             </ul>
-          </nav>
+          </nav>          
         </header>
       )
 }

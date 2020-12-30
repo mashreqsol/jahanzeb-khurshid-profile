@@ -4,7 +4,7 @@ const About = () => {
   return (
     <Layout>
       <h1>About Page</h1>
-      <p>Jahanzeb Khurshid is a software developer, teacher and a trainer.</p>
+      <p>Site is under construction....</p>
     </Layout>
   )
 }

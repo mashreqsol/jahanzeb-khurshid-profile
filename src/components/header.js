@@ -36,7 +36,7 @@ const Header = () => {
                   </Link>
                 </li>
                 <li>
-                  <Link to="/blog/" activeClassName={headerStyles.activeMenuItem}>
+                  <Link to="/products/" activeClassName={headerStyles.activeMenuItem}>
                     Products
                   </Link>
                 </li>
@@ -45,11 +45,7 @@ const Header = () => {
                     Services
                   </Link>
                 </li>
-                <li>
-                  <Link to="/blog/" activeClassName={headerStyles.activeMenuItem}>
-                    Blog
-                  </Link>
-                </li>
+               
                 <li>
                   <Link to="/contact/" activeClassName={headerStyles.activeMenuItem}>
                     Contact

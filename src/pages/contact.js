@@ -1,12 +1,32 @@
 import React from "react"
-import Layout from "../components/layout.js"
-const Contact = () => {
-  return (
-    <Layout>
-      <h1>Contact Page</h1>
-      <p>You can contact Jahanzeb Khurshid via Email. jahanzeb.khurshid@gmail.com</p>
-    </Layout>
-  )
-}
+import Layout from "../components/layout"
 
-export default Contact
+const ContactFormPage = () => (
+  <Layout>
+    <h1>Contact</h1>
+
+    <form 
+    name="contact"
+    method="post" 
+    data-netlify="true" 
+    data-netlify-honeypot="bot-field"
+    action="/thank-you/"
+>
+    <input type="hidden" name="bot-field" />
+    <div>
+        <input type="text" name="name" placeholder="Name" required />
+        <br />
+        <input type="email" name="email" placeholder="Email" required />
+        <br />
+        <input type="text" name="subject" placeholder="Subject" required />
+        <br />
+        <textarea name="message" required></textarea>
+    </div>
+    <div>
+        <button type="submit">Send</button>
+        <button type="reset">Clear</button>
+    </div>
+</form>
+  </Layout>
+)
+export default ContactFormPage

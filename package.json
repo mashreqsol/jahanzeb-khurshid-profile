@@ -14,6 +14,7 @@
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
   },
   "dependencies": {
+    "formik": "^2.2.6",
     "gatsby": "^2.26.1",
     "gatsby-image": "^2.7.0",
     "gatsby-plugin-react-helmet": "^3.6.0",
@@ -27,7 +28,9 @@
     "node-sass": "^5.0.0",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
-    "react-helmet": "^6.1.0"
+    "react-google-recaptcha": "^2.1.0",
+    "react-helmet": "^6.1.0",
+    "react-netlify-forms": "^1.2.0"
   },
   "devDependencies": {
     "prettier": "2.1.2",

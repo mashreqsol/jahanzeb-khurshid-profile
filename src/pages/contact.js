@@ -5,27 +5,20 @@ const ContactFormPage = () => (
   <Layout>
     <h1>Contact</h1>
 
-    <form 
-    name="contact"
-    method="post" 
-    data-netlify="true" 
-    action="/thank-you/"
-    >  
- <input type="hidden" name="form-name" value="contact" />
-    
-    <div>
-        <input type="text" name="name" placeholder="Name" required />
-        <br />
-        <input type="email" name="email" placeholder="Email" required />
-        <br />
-        <input type="text" name="subject" placeholder="Subject" required />
-        <br />
-        <textarea name="message" required></textarea>
-    </div>
-    <div>
-        <button type="submit">Send</button>
-        <button type="reset">Clear</button>
-    </div>
+    <form name="contact" method="POST" data-netlify="true" action="/thank-you/">
+  <p>
+    <label>Your Name: <input type="text" name="name" /></label>   
+  </p>
+  <p>
+    <label>Your Email: <input type="email" name="email" /></label>
+  </p>
+  
+  <p>
+    <label>Message: <textarea name="message"></textarea></label>
+  </p>
+  <p>
+    <button type="submit">Send</button>
+  </p>
 </form>
   </Layout>
 )

@@ -3,7 +3,7 @@ import Layout from "../components/layout"
 
 const ContactFormPage = () => (
   <Layout>
-    <h1>Contact</h1>
+    <h1>We are excited to contact you back!</h1>
 
     <form name="contact" method="POST" data-netlify="true">
     <input type="hidden" name="form-name" value="contact" />
@@ -15,7 +15,7 @@ const ContactFormPage = () => (
   </tr>
   <tr>
     <td><label>Your Contact No:</label> </td>
-    <td><input type="text" name="contactno" /> </td>
+    <td><input type="text" name="contact no" /> </td>
   </tr>
   <tr>
     <td><label>Your Email:</label> </td>

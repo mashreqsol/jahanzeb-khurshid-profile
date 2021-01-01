@@ -19,7 +19,7 @@ const ContactFormPage = () => (
   </tr>
   <tr>
     <td><label>Your Email:</label> </td>
-    <td><input type="email" name="email" size="47" /> </td>
+    <td><input type="email" name="email" size="47" required /> </td>
   </tr>
   <tr>
     <td><label>Message:</label></td>

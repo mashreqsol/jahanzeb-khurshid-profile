@@ -7,19 +7,29 @@ const ContactFormPage = () => (
 
     <form name="contact" method="POST" data-netlify="true">
     <input type="hidden" name="form-name" value="contact" />
-  <p>
-    <label>Your Name: <input type="text" name="name" /></label>   
-  </p>
-  <p>
-    <label>Your Email: <input type="email" name="email" /></label>
-  </p>
-  
-  <p>
-    <label>Message: <textarea name="message"></textarea></label>
-  </p>
-  <p>
-    <button type="submit">Send</button>
-  </p>
+ 
+    <table>
+  <tr>
+    <td><label>Your Name:</label></td>
+    <td><input type="text" name="name" /></td>
+  </tr>
+  <tr>
+    <td><label>Your Contact No:</label> </td>
+    <td><input type="text" name="contactno" /> </td>
+  </tr>
+  <tr>
+    <td><label>Your Email:</label> </td>
+    <td><input type="email" name="email" /> </td>
+  </tr>
+  <tr>
+    <td><label>Message:</label></td>
+    <td><textarea name="message"></textarea> </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><button type="submit">Send</button></td>    
+  </tr>
+</table>
+ 
 </form>
   </Layout>
 )

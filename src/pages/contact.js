@@ -11,19 +11,19 @@ const ContactFormPage = () => (
     <table>
   <tr>
     <td><label>Your Name:</label></td>
-    <td><input type="text" name="name" /></td>
+    <td><input type="text" name="name" size="47" required /></td>
   </tr>
   <tr>
     <td><label>Your Contact No:</label> </td>
-    <td><input type="text" name="contact no" /> </td>
+    <td><input type="text" name="contact no" size="47" required/> </td>
   </tr>
   <tr>
     <td><label>Your Email:</label> </td>
-    <td><input type="email" name="email" /> </td>
+    <td><input type="email" name="email" size="47" /> </td>
   </tr>
   <tr>
     <td><label>Message:</label></td>
-    <td><textarea name="message"></textarea> </td>
+    <td><textarea name="message" rows="6" cols="49" required></textarea> </td>
   </tr>
   <tr>
     <td colspan="2" align="center"><button type="submit">Send</button></td>    

@@ -19,3 +19,14 @@ Following are the Key Features
 5. Students and Staff Attendance
 6. SMS Sending Mechanisam
 7. Reports on a single Click
+
+-------------------------------------------
+| **Eligible For** | **One Time Package** | **Monthly Package** |
+| :--        |         :-: |      :-:     |
+| Training | **Yes** | **Yes** |
+| Installation | **Yes** | **Yes** |
+| 4 Months Support | **Yes** | **Yes** |
+| Monthly Support | **No** | **Yes** |
+| Free IT Training | **No** | **Yes** |
+| Online Coding Classes For School Students | **No** | **Yes** |
+| **Price** | **50,000 Pak Rs.** | **10,000 + 4000 (Monthly)** |

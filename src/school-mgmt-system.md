@@ -23,7 +23,7 @@ Following are the Key Features
 -------------------------------------------
 | **Eligible For** | **One Time Package** | **Monthly Package** |
 | :--        |         :-: |      :-:     |
-| Training | :thumbsup: | **Yes** |
+| Training |**Yes** | **Yes** |
 | Installation | **Yes** | **Yes** |
 | 4 Months Support | **Yes** | **Yes** |
 | Monthly Support | **No** | **Yes** |

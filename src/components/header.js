@@ -37,15 +37,10 @@ const Header = () => {
                 </li>
                 <li>
                   <Link to="/products/" activeClassName={headerStyles.activeMenuItem}>
-                    Products
+                    Products & Services
                   </Link>
                 </li>
-                <li>
-                  <Link to="/blog/" activeClassName={headerStyles.activeMenuItem}>
-                    Services
-                  </Link>
-                </li>
-               
+                               
                 <li>
                   <Link to="/contact/" activeClassName={headerStyles.activeMenuItem}>
                     Contact

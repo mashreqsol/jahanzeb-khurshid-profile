@@ -20,4 +20,15 @@ Following are the Key Features
 6. Balance Sheet
 7. Trial Balances
 
-A very handy tool that meets all audit requirements
+A very handy tool that meets all audit requirements.
+
+
+-------------------------------------------
+| **Eligible For** | **One Time Package** | **Monthly Package** |
+| :--        |         :-: |      :-:     |
+| Training |**Yes** | **Yes** |
+| Installation | **Yes** | **Yes** |
+| 4 Months Support | **Yes** | **Yes** |
+| Monthly Support | **No** | **Yes** |
+| Free IT Training | **No** | **Yes** |
+| **Price** | **25,000 Pak Rs.** | **10,000 + 3000 (Monthly)** |

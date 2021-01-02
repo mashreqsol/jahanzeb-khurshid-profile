@@ -10,15 +10,15 @@ const ContactFormPage = () => (
  
     <table>
   <tr>
-    <td><label>Your Name:</label></td>
+    <td><label>Name:</label></td>
     <td><input type="text" name="name" size="47" required /></td>
   </tr>
   <tr>
-    <td><label>Your Contact No:</label> </td>
+    <td><label>Contact No:</label> </td>
     <td><input type="text" name="contact no" size="47" required/> </td>
   </tr>
   <tr>
-    <td><label>Your Email:</label> </td>
+    <td><label>Email:</label> </td>
     <td><input type="email" name="email" size="47" required /> </td>
   </tr>
   <tr>

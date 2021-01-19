@@ -13,13 +13,14 @@ School Management System with ease of use and completely configurable. Helps to 
 Following are the Key Features 
 
 1. Students Records Digitalization
-2. Accounts / Fees / Expenses
-3. Examination / Results
-4. Document Management
-5. Students and Staff Attendance
-6. Library Management
-7. SMS Sending Mechanisam
-8. Reports on a single Click
+2. Students ID Card Generation
+3. Accounts / Fees / Expenses
+4. Examination / Results
+5. Document Management
+6. Students and Staff Attendance
+7. Library Management
+8. SMS Sending Mechanisam
+9. Reports on a single Click
 
 -------------------------------------------
 | **Eligible For** |  **Silver Package** &nbsp;&nbsp;&nbsp|**Pearl Package**| **Monthly Package** |

@@ -29,6 +29,7 @@ Following are the Key Features
 | Virtual IT Resource |**No** | **No** | **1 hour / day** |
 | Monthly Online Support |**1 Month** | **4 Months** | **Every Month** |
 | Free IT Training |**No** | **Yes** | **Yes** |
+| Free For Life |**Yes** | **Yes** | **No** |
 |  **Price** | **30,000**| **50,000** | **10,000 + 5000 (Monthly)** |
 
 -------------------------------------------

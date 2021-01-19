@@ -17,16 +17,19 @@ Following are the Key Features
 3. Examination / Results
 4. Document Management
 5. Students and Staff Attendance
-6. SMS Sending Mechanisam
-7. Reports on a single Click
+6. Library Management
+7. SMS Sending Mechanisam
+8. Reports on a single Click
 
 -------------------------------------------
-| **Eligible For** | **One Time Package** | **Monthly Package** |
-| :--        |         :-: |      :-:     |
-| Training |**Yes** | **Yes** |
-| Installation | **Yes** | **Yes** |
-| 4 Months Support | **Yes** | **Yes** |
-| Monthly Support | **No** | **Yes** |
-| Free IT Training | **No** | **Yes** |
-| Online Coding Classes For School Students | **No** | **Yes** |
-| **Price** | **50,000 Pak Rs.** | **10,000 + 4000 (Monthly)** |
+| **Eligible For** |  **Silver Package** &nbsp;&nbsp;&nbsp|**Pearl Package**| **Monthly Package** |
+| :--        |     :-:     |     :-: |      :-:     |
+| Training |**Yes** |**Yes** | **Yes** |
+| Installation |**Yes** | **Yes** | **Yes** |
+| Virtual IT Resource |**No** | **No** | **1 hour / day** |
+| Monthly Online Support |**1 Month** | **4 Months** | **Every Month** |
+| Free IT Training |**No** | **Yes** | **Yes** |
+|  **Price** | **30,000**| **50,000** | **10,000 + 5000 (Monthly)** |
+
+-------------------------------------------
+**Note: Amount mentioned above is in Pak Rs.**
